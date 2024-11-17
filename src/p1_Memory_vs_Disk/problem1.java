@@ -5,6 +5,8 @@ import java.util.Random;
 public class problem1 {
     public static void main(String[] args) {
 
+        // 1번) “100 이하”의 랜덤 숫자를 1000만개를 생성하고 변수에 저장하세요.
+        //      그리고 전체 값을 sum하는 프로그램을 작성하세요.
         long startTime = System.currentTimeMillis();
 
         Random random = new Random();
